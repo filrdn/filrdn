@@ -17,6 +17,7 @@ I am a student in the Bachelor's degree in Data Science at UNIVESP. Currently, I
 #### Tools and Technologies
 - Git
 - AWS
+- SQL
 
 ### Connect with Me
 
