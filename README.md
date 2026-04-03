@@ -1,24 +1,8 @@
-### About Me
+Bacharel em Ciência de Dados pela UNIVESP e, hoje, trabalhando com dados no Itaú.
 
-I am a student in the Bachelor's degree in Data Science at UNIVESP. Currently, I work at Itaú as a product analyst. I am interested in web development and always eager to learn new technologies.
+A real é que eu sou um cara fissurado por entender como as coisas funcionam, semente da 42 SP. Para mim, estudar o mundo dos dados não é só obrigação profissional, é um hobby. Adoro desafios de pegar um fluxo de dados bagunçado e deixar ele rodando liso, seja com Python, SQL ou explorando as nuvens da AWS. Se envolver um problema difícil de resolver e uma tecnologia nova pra aprender, eu provavelmente tô empolgado com isso.
 
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript**
-- 👯 I’m looking to collaborate on **Open Source projects**
-- ⚡ Fun fact: I enjoy playing Fortnite and FIFA with friends
+Quando saio da frente das planilhas e dos terminais, meu refúgio é o videogame. Sou do tipo que mergulha mesmo na história, então se você quiser falar sobre a jornada do Joel (Prefiro a Abby) em The Last of Us, as cavalgadas do Arthur Morgan em Red Dead 2 ou as pancadarias do Kratos no God of War, a gente vai longe. E claro, sempre rola aquele Fortnite com os amigos.
 
-### Skills
-
-#### Programming Languages
-- Python
-
-#### Frameworks and Libraries
-- Django
-
-#### Tools and Technologies
-- Git
-- AWS
-- SQL
-
-### Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/felipe-r-nascimento/)
+Conecte-se comigo no LinkedIn!
+https://www.linkedin.com/in/felipe-r-nascimento/
